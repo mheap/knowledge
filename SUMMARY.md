@@ -6,3 +6,8 @@
 
 * [Email Workflow](productivity/email-workflow.md)
 
+## Product Management
+
+* [Types of Feature](product-management/types-of-feature.md)
+* [Risks](product-management/risks.md)
+
