@@ -15,3 +15,7 @@
 
 * [Personas and Requirements](documentation/personas-and-requirements.md)
 
+## Management
+
+* [Employees Leaving](management/employees-leaving.md)
+
