@@ -18,6 +18,7 @@
 ## Management
 
 * [Employees Leaving](management/employees-leaving.md)
+* [Scratchpad](management/scratchpad.md)
 
 ## Engineering
 
