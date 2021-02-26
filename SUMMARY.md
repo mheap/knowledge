@@ -28,3 +28,7 @@
 
 * [Wardley Mapping](business-development/wardley-mapping.md)
 
+## API Design
+
+* [Pagination](api-design/pagination.md)
+
